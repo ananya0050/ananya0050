@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ananya0050
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Ananya
+- 👀 Coding Enthusiast
 - 🌱 I’m currently learning 
-- 📫 How to reach me 
+- 📫 Here's a way to reach me on LinkedIn-- www.linkedin.com/in/ananya-gupta-8bb125247
+- 📫 Leetcode--https://leetcode.com/u/AnanyaG7/
 
 <!---
 ananya0050/ananya0050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
